@@ -10,7 +10,7 @@ import (
 
 const (
 	WEBSITE_API string = "/api/websites"
-	HOST        string = "localhost"
+	HOST        string = "0.0.0.0"
 	PORT        string = "9001"
 )
 
